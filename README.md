@@ -1,6 +1,9 @@
 # demo_zeroc_ice_tcp
 Zeroc Ice TCP长连接 实现推送功能
 
+## 参考
+http://blog.csdn.net/jerome_s/article/details/54092791
+
 ## 系统配置
 IDE:Eclipse
 ICE Library:ice-3.6.2.jar
